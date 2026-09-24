@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aaditya-loops/leetcodesolution/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aaditya-loops/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aaditya-loops/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aaditya-loops/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
