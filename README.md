@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aaditya-loops/leetcodesolution/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/aaditya-loops/leetcodesolution/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aaditya-loops/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aaditya-loops/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aaditya-loops/leetcodesolution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
 | [0560-subarray-sum-equals-k](https://github.com/aaditya-loops/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/aaditya-loops/leetcodesolution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aaditya-loops/leetcodesolution/tree/master/0994-rotting-oranges) |
@@ -69,4 +71,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aaditya-loops/leetcodesolution/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
