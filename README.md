@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aaditya-loops/leetcodesolution/tree/master/0029-divide-two-integers) |
+| [0507-perfect-number](https://github.com/aaditya-loops/leetcodesolution/tree/master/0507-perfect-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aaditya-loops/leetcodesolution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
