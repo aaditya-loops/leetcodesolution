@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aaditya-loops/leetcodesolution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aaditya-loops/leetcodesolution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aaditya-loops/leetcodesolution/tree/master/0204-count-primes) |
+| [0542-01-matrix](https://github.com/aaditya-loops/leetcodesolution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/aaditya-loops/leetcodesolution/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/aaditya-loops/leetcodesolution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aaditya-loops/leetcodesolution/tree/master/0994-rotting-oranges) |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/aaditya-loops/leetcodesolution/tree/master/0542-01-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/aaditya-loops/leetcodesolution/tree/master/1463-cherry-pickup-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aaditya-loops/leetcodesolution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aaditya-loops/leetcodesolution/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aaditya-loops/leetcodesolution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aaditya-loops/leetcodesolution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aaditya-loops/leetcodesolution/tree/master/1020-number-of-enclaves) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aaditya-loops/leetcodesolution/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aaditya-loops/leetcodesolution/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aaditya-loops/leetcodesolution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aaditya-loops/leetcodesolution/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aaditya-loops/leetcodesolution/tree/master/0994-rotting-oranges) |
